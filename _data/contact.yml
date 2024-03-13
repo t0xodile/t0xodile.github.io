@@ -1,5 +1,8 @@
 #  The contact options.
 
+- type: linkedin
+  icon: "fa-brands fa-linkedin"
+
 - type: github
   icon: "fab fa-github"
 
