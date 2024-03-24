@@ -1,7 +1,7 @@
 ---
 title: Account takeover vulnerability in Azure’s API Management Developer Portal
 date: 2023-03-12
-categories: [write-up]
+categories: [Write-up]
 tags: [outpost24]
 ---
 
