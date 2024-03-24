@@ -1,0 +1,12 @@
+---
+title: Account takeover vulnerability in Azure’s API Management Developer Portal
+date: 2023-03-12
+categories: [write-up]
+tags: [outpost24]
+---
+
+![GhostLabs - Outpost24](../assets/logo-ghost-labs.webp)
+
+[Write-up](https://outpost24.com/blog/account-takeover-vulnerability-in-azures-api-management-developer-portal/)
+
+In this blog (linked above) I explain how I used [param-miner](https://github.com/PortSwigger/param-miner) to discover a critical privilege escalation vulnerability in Azure's API Management Developer Portal. This was my first ever responsible disclosure (and bug-bounty!) and netted me a healthy $10,000.
