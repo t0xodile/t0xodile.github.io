@@ -2,7 +2,7 @@
 title: Account takeover vulnerability in Azure’s API Management Developer Portal
 date: 2023-03-12
 categories: [Write-up]
-tags: [outpost24]
+tags: [outpost24, bug-bounty]
 ---
 
 ![GhostLabs - Outpost24](../assets/logo-ghost-labs.webp)
