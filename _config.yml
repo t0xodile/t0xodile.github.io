@@ -14,9 +14,9 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: t0xodile's blog # the main title
+title: Thomas 't0xodile' Stacey # the main title
 
-tagline: Thomas Stacey's (t0xodile) personal blog # it will display as the sub-title
+tagline: Adventures in appsec, research and penetration testing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A web application security blog focussed on research, PTaaS and weird bugs.
