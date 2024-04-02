@@ -7,8 +7,6 @@ pin: true
 image: ../assets/Deception-Meme-Preview.png
 ---
 
-![Web Cache Deception Meme](../assets/Deception-Meme.png)
-
 Web Cache Deception, first discovered (I think...) [here](https://www.blackhat.com/docs/us-17/wednesday/us-17-Gil-Web-Cache-Deception-Attack-wp.pdf), is a rare attack class that enables an attacker to trick users into **storing** sensitive information in a server-side cache for later retrieval.
 
 Unfortunately, throughout all my adventures so far, a total of 0 applications have responded positively to my Web Cache Deception probes. Despite this, the topic has always hung about in the back of my mind as something exciting to test for if I can find any reference to the presence of a server-side web cache.

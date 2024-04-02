@@ -6,8 +6,6 @@ tags: [outpost24, bug-bounty, webinar]
 image: ../assets/logo-ghost-labs-preview.png
 ---
 
-![GhostLabs - Outpost24](../assets/logo-ghost-labs.webp)
-
 [Write-up](https://outpost24.com/blog/account-takeover-vulnerability-in-azures-api-management-developer-portal/)
 
 [Webinar](https://www.brighttalk.com/webcast/18724/577495)

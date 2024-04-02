@@ -6,8 +6,6 @@ tags: [outpost24, webinar]
 image: ../assets/wrong-appsec-preview.png
 ---
 
-![Penetration Testing as a Service](../assets/wrong-appsec.webp)
-
 [Original Blog Post](https://outpost24.com/blog/can-traditional-pen-testing-keep-up-with-modern-appsec/)
 
 [Webinar](https://www.brighttalk.com/webcast/18724/607896)
