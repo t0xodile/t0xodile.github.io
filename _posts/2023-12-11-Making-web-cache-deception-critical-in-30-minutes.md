@@ -4,6 +4,7 @@ date: 2023-12-11
 categories: [Write-up]
 tags: [bug-bounty, exploit development]
 pin: true
+image: ../assets/Deception-Meme-Preview.png
 ---
 
 ![Web Cache Deception Meme](../assets/Deception-Meme.png)
