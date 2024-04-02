@@ -3,6 +3,7 @@ title: Can traditional pen testing keep up with modern AppSec? Ask the pen teste
 date: 2023-11-15
 categories: [Thoughts]
 tags: [outpost24, webinar]
+image: ../assets/wrong-appsec-preview.png
 ---
 
 ![Penetration Testing as a Service](../assets/wrong-appsec.webp)
