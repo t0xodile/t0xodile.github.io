@@ -3,7 +3,7 @@ title: Cross-site scripting attacks in action and how to protect against them
 date: 2024-02-19
 categories: [Write-up]
 tags: [outpost24, exploit development]
-image: ../assets/xss-protect.webp
+image: ../assets/xss-protect-preview.png
 ---
 
 ![](../assets/xss-protect.webp)
