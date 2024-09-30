@@ -1,5 +1,5 @@
 ---
-title: Empowering Junior Testers: Strategies for Uncovering Critical Vulnerabilities in Web Applications
+title: Empowering Junior Testers - Strategies for Uncovering Critical Vulnerabilities in Web Applications
 date: 2024-09-30
 categories: [Presentation, Thoughts]
 tags: [outpost24, exploit development, bug-bounty, webinar]
