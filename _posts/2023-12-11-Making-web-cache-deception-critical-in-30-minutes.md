@@ -3,7 +3,6 @@ title: Making Web Cache Deception critical in 30 minutes
 date: 2023-12-11
 categories: [Write-up]
 tags: [bug-bounty, exploit development]
-pin: true
 image: ../assets/Deception-Meme-Preview.png
 ---
 
