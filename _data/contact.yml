@@ -1,6 +1,6 @@
 #  The contact options.
 
-- type: bluesky
+- type: mastodon
   icon: 'fa-brands fa-bluesky'
   url: 'https://bsky.app/profile/t0xodile.com'
 
