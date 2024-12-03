@@ -14,7 +14,6 @@ timezone: Europe/Stockholm
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-<<<<<<< HEAD
 title: t0xodile's blog # the main title
 
 tagline: Adventures in appsec, research and penetration testing # it will display as the sub-title
@@ -35,7 +34,6 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-<<<<<<< HEAD
   name: Thomas Stacey
   email: thomas.stacey@gmail.com # change to your email address
   links:
