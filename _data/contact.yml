@@ -1,11 +1,11 @@
 #  The contact options.
 
 - type: bluesky
-  icon: "fa-brands fa-bluesky"
-  url: "https://bsky.app/profile/t0xodile.com"
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/t0xodile.com'
 
 - type: twitter
-  icon: "fa-brands fa-x-twitter"
+  icon: 'fa-brands fa-x-twitter'
 
 #- type: email
 #  icon: "fas fa-envelope"
