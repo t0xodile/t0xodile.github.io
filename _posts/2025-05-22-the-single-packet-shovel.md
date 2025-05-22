@@ -8,7 +8,7 @@ image: ../assets/shovels.webp
 
 [Research](https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling)
 
-[Recording]()
+Recording - To be released
 
 Despite HTTP Request Tunnelling's resurgence in recent years with the advent of HTTP/2 Desync Attacks, its much bolder big brother HTTP Request Smuggling has stolen the limelight, leaving cases of desync-powered tunnelling buried for all but the most dedicated tunnelling enthusiasts.
 
