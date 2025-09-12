@@ -6,9 +6,12 @@ tags: [assured, bug-bounty]
 image: ../assets/shovels.webp
 ---
 
-[Research](https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling)
+This research was originally presented at BSides Exeter 2025:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BTdP7yjbH5Y?si=rQ4sl5_LRsKGFzTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Recording - To be released
+
+
+[Research](https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling)
 
 Despite HTTP Request Tunnelling's resurgence in recent years with the advent of HTTP/2 Desync Attacks, its much bolder big brother HTTP Request Smuggling has stolen the limelight, leaving cases of desync-powered tunnelling buried for all but the most dedicated tunnelling enthusiasts.
 
@@ -16,4 +19,5 @@ In this paper I will reveal the discovery of wide-spread cases of request tunnel
 
 Throughout the journey I will also explore the complexities of navigating security research for the first time, drawing parallels from the advice given in so you want to be a web security researcher and illuminate the ease through which existing tooling from industry leading researchers can be adapted in order to rapidly test your own ideas, even with a rudimentary understanding of programming.
 
-This research was originally presented at BSides Exeter 2025 the recording for which will be released soon.
+
+
