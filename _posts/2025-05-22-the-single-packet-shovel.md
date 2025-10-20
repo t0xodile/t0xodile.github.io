@@ -3,7 +3,7 @@ title: "The Single-Packet Shovel: Digging for Desync-Powered Request Tunnelling"
 date: 2025-05-22
 categories: [Research]
 tags: [assured, bug-bounty]
-image: ../assets/shovels.webp
+image: /assets/shovels.webp
 ---
 
 This research was originally presented at BSides Exeter 2025:
