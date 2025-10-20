@@ -3,7 +3,7 @@ title: Empowering Junior Testers - Strategies for Uncovering Critical Vulnerabil
 date: 2024-09-30
 categories: [Presentation, Thoughts]
 tags: [outpost24, exploit development, bug-bounty, webinar]
-image: ../assets/strategies-for-junior-testers.png
+image: /assets/strategies-for-junior-testers.png
 ---
 
 [Recording](https://www.youtube.com/watch?v=ThCvfZO0DEk)

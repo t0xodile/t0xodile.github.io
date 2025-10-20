@@ -3,7 +3,7 @@ title: Using HTTP request smuggling to hijack users' sessions
 date: 2023-09-06
 categories: [Write-up]
 tags: [outpost24, exploit development]
-image: ../assets/http-request-smuggling-hijack-preview.png
+image: /assets/http-request-smuggling-hijack-preview.png
 ---
 
 [Write-up](https://outpost24.com/blog/http-request-smuggling-to-hijack-user-session/)

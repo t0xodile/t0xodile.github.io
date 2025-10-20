@@ -3,7 +3,7 @@ title: "How to join the desync endgame"
 date: 2025-09-19
 categories: [Thoughts]
 tags: [bug-bounty]
-image: ../assets/http1mustdie2.webp
+image: /assets/http1mustdie2.webp
 ---
 
 [Blog](https://portswigger.net/blog/how-to-join-the-desync-endgame-practical-tips-from-pentester-tom-stacey)

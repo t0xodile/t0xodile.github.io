@@ -3,7 +3,7 @@ title: Can traditional pen testing keep up with modern AppSec? Ask the pen teste
 date: 2023-11-15
 categories: [Thoughts]
 tags: [outpost24, webinar]
-image: ../assets/wrong-appsec-preview.png
+image: /assets/wrong-appsec-preview.png
 ---
 
 [Original Blog Post](https://outpost24.com/blog/can-traditional-pen-testing-keep-up-with-modern-appsec/)
