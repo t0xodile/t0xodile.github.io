@@ -19,11 +19,11 @@ title: t0xodile's blog # the main title
 tagline: Adventures in appsec, research and penetration testing # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A web application security blog focussed on research, PTaaS and weird bugs.
+  A web application security blog focussed on web security research.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://t0xodile.github.io"
+url: "https://thomas.stacey.se"
 
 github:
   username: t0xodile # change to your github username
