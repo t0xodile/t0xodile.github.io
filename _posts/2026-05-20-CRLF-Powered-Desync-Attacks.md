@@ -1,8 +1,8 @@
 ---
 title: "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
 date: 2026-05-20
-categories: []
-tags: [research]
+categories: [research]
+tags: [bug-bounty]
 image: /assets/BHUSA2026.webp
 ---
 
