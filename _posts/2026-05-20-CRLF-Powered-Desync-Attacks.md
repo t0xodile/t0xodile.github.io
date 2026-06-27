@@ -3,10 +3,10 @@ title: "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
 date: 2026-05-20
 categories: [Research]
 tags: [bug-bounty]
-image: /assets/BHUSA2026.webp
+image: /assets/blackhat_defcon34_1200x630.png
 ---
 
-Coming to BlackHat USA 2026...
+Coming to BlackHat USA and DEFCON 2026...
 
 
 [Abstract](https://blackhat.com/us-26/briefings/schedule/index.html#crlf-powered-desync-attacks-beheading-http-streams-51712)
