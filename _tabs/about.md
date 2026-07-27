@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to Tom Stacey's (aka "t0xodile") personal blog. Here you'll find content about my adventures in web security research. If you have any questions or comments, please feel free to reach out to one of my socials. 
+Welcome to my personal blog. Here you'll find content about my adventures in web security research. If you have any questions or comments, please feel free to reach out to one of my socials. 
 
-I am a security researcher at PortSwigger bringing novel web hacking techniques to conferences like BlackHat and DEFCON. I spend most of my time hacking web applications or helping improve BurpSuite with a healthy dose of AI mixed into everything I do. When I'm not at work I'm usually playing some form of video / board game or building some kind of Lego.
+Tom 't0xodile' Stacey is a security researcher at PortSwigger with a passion for automating the ideas that "will never work" to find gaps in the industry's current understanding of web security. He is best known for his work in discovering and exploiting underappreciated forms of desync attacks.
+
+At PortSwigger he spends most of his time experimenting with the HTTP protocol and the vulnerabilities that arise due to the disagreements between web servers and components with the goal of finding novel techniques to improve Burp Suite's capabilities. When he's not at work, he's usually playing some form of video / board game or building Lego.
 
 <img src="../assets/face.JPG" alt="me" width="300" height="300">
