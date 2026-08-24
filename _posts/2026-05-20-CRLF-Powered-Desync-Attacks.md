@@ -3,13 +3,10 @@ title: "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
 date: 2026-05-20
 categories: [Research]
 tags: [bug-bounty]
-image: /assets/blackhat_defcon34_1200x630.png
+image: /assets/crlf.jpeg
 ---
 
-Coming to BlackHat USA and DEFCON 2026...
-
-
-[Abstract](https://blackhat.com/us-26/briefings/schedule/index.html#crlf-powered-desync-attacks-beheading-http-streams-51712)
+[Paper](https://portswigger.net/research/crlf-powered-desync-attacks)
 
 Have you ever discovered a header injection vulnerability and settled for little more than an open redirect or XSS? In this Briefing, we will introduce a battle-tested "header injection" powered desync methodology, enabling you to perform HTTP request smuggling attacks against even strictly RFC-compliant proxy chains.
 
